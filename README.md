@@ -1,7 +1,7 @@
 <H3>Enter Name : KOWSALYA M</H3>
 <H3>Enter Register No : 21222230069</H3>
 <H3>Experiment 2</H3>
-<H3>Date: 05/09/2024</H3>
+<H3>Date: 02/09/2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
